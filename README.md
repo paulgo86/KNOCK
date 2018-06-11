@@ -41,4 +41,4 @@
 >|-| phone | string | 사업주 연락처 |
 >|-| bsNum | string | 사업자 번호 |
 >|-| docImages | file[] |  서류사진|
->|-| shopMenu | string | 메뉴정보|
+>|-| shopMenu | Object[{ <br> menus:Object[],<br> partId:Number,<br> partName:String <br> }] | 메뉴정보|
