@@ -37,8 +37,8 @@
 >|-| posBit | string | OS bit |
 >|-| prgName | string | 프로그램 명 |
 >|-| prgPath | string | 프로그램 경로 |
->|-| masterName | string | 사업주이름 |
->|-| phone | string | 사업주 연락처 |
+>|-| bsName | string | 사업주이름 |
+>|-| bsTel | string | 사업주 연락처 |
 >|-| bsNum | string | 사업자 번호 |
 >|-| docImages | file[] |  서류사진|
 >|-| shopMenu | Object[{ <br> menus:Object[],<br> partId:Number,<br> partName:String <br> }] | 메뉴정보|
